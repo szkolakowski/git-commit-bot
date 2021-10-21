@@ -1,5 +1,5 @@
 # git-commit-bot
-Skrypt nie wymaga dodatkowych bibliotek Pythona, poza tymi domyślnie zainstalowanymi. Program automatycznie tworzy nowe pliki w:
+Skrypt nie wymaga dodatkowych bibliotek Pythona, poza tymi domyślnie zainstalowanymi. Program automatycznie tworzy nowe pliki w językach:
 ```
 ['c', 'cpp', 'csharp', 'go', 'java', 'js', 'php', 'python', 'r', 'swift']
 ```
